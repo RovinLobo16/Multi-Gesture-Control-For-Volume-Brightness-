@@ -1,0 +1,6 @@
+| Gesture                   | Action                       |
+| ------------------------- | ---------------------------- |
+| ✌️ Index + Middle fingers | Adjust volume                |
+| 🤏 Thumb + Index          | Adjust brightness (original) |
+| ✋ Palm open (5 fingers)   | Reset brightness to 50%      |
+| ✊ Fist (0 fingers up)     | Dim screen to 20%            |
